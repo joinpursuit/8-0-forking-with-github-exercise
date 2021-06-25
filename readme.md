@@ -12,10 +12,6 @@ To complete this exercise, you should:
 
 1. Create a pull request.
 
-## Your Name
+## You can make and suggest whatever changes you want
 
-Include your name below! You only need to include your first or preferred name.
-
-```
-
-```
+But that doesn't mean the person who owns the original repository has to accept them.
